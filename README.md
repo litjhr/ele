@@ -1,2 +1,2 @@
 # ele
-My web which uses my own theme!(fork from minima)
+My web which finally uses minima T_T.
