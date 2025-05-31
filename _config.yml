@@ -2,3 +2,5 @@ theme: minima
 author: litjhr
 title: ELE
 email: jhr32272@outlook.com
+url: "https://litjhr.github.io"
+baseurl: "/ele"
